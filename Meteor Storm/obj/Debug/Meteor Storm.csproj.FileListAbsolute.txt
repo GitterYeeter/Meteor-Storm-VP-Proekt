@@ -1,0 +1,14 @@
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\bin\Debug\Meteor Blaster.exe.config
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\bin\Debug\Meteor Blaster.exe
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\bin\Debug\Meteor Blaster.pdb
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Storm.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Storm.csproj.ResolveComReference.cache
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor_Blaster.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Storm.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Storm.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Blaster.exe
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Blaster.pdb
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor_Blaster.Game.resources
+C:\Users\Nikola\Desktop\Meteor Blaster\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor_Blaster.Menu.resources

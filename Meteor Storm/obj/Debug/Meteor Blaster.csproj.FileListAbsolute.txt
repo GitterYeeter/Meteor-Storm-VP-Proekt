@@ -1,0 +1,13 @@
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\bin\Debug\Meteor Blaster.exe.config
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\bin\Debug\Meteor Blaster.exe
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\bin\Debug\Meteor Blaster.pdb
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Blaster.csprojAssemblyReference.cache
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor_Blaster.Form1.resources
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor_Blaster.Properties.Resources.resources
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Blaster.csproj.GenerateResource.cache
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Blaster.csproj.CoreCompileInputs.cache
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Blaster.exe
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Blaster.pdb
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Interop.WMPLib.dll
+C:\Users\Maritn\Desktop\Meteor Blaster\Meteor Blaster\obj\Debug\Meteor Blaster.csproj.ResolveComReference.cache
