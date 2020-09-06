@@ -358,10 +358,6 @@ namespace Meteor_Blaster
             
         }
 
-        private void Game_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            this.menu.Show();
-        }
 
         private void exitBtn_Click(object sender, EventArgs e)
         {
@@ -369,6 +365,7 @@ namespace Meteor_Blaster
             this.Close();
             
         }
+        
 
         private void replayBtn_Click_1(object sender, EventArgs e)
         {
@@ -377,8 +374,17 @@ namespace Meteor_Blaster
             Form1_Load(e, e);
         }
 
-        
+        private void Game_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.menu.Show();
 
+        }
+
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
 
         /*private void button1_Click(object sender, EventArgs e)
         {

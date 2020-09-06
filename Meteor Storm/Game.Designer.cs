@@ -64,7 +64,7 @@
             this.Player.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Player.BackgroundImage")));
             this.Player.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Player.Location = new System.Drawing.Point(347, 492);
-            this.Player.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Player.Margin = new System.Windows.Forms.Padding(4);
             this.Player.Name = "Player";
             this.Player.Size = new System.Drawing.Size(67, 62);
             this.Player.TabIndex = 0;
@@ -118,7 +118,7 @@
             // 
             this.replayBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.replayBtn.Location = new System.Drawing.Point(305, 241);
-            this.replayBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.replayBtn.Margin = new System.Windows.Forms.Padding(4);
             this.replayBtn.Name = "replayBtn";
             this.replayBtn.Size = new System.Drawing.Size(180, 63);
             this.replayBtn.TabIndex = 2;
@@ -131,7 +131,7 @@
             // 
             this.exitBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.exitBtn.Location = new System.Drawing.Point(305, 331);
-            this.exitBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.exitBtn.Margin = new System.Windows.Forms.Padding(4);
             this.exitBtn.Name = "exitBtn";
             this.exitBtn.Size = new System.Drawing.Size(180, 63);
             this.exitBtn.TabIndex = 4;
@@ -200,7 +200,6 @@
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Chartreuse;
             this.label4.Location = new System.Drawing.Point(319, 127);
@@ -210,17 +209,19 @@
             this.label4.TabIndex = 10;
             this.label4.Text = "YOUR SCORE";
             this.label4.Visible = false;
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // fileSystemWatcher1
             // 
             this.fileSystemWatcher1.EnableRaisingEvents = true;
             this.fileSystemWatcher1.SynchronizingObject = this;
             // 
-            // Form1
+            // Game
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkBlue;
+            this.CancelButton = this.exitBtn;
             this.ClientSize = new System.Drawing.Size(779, 567);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -232,9 +233,10 @@
             this.Controls.Add(this.replayBtn);
             this.Controls.Add(this.textlabel1);
             this.Controls.Add(this.Player);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "Game";
             this.Text = "Form1";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Game_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
